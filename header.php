@@ -21,9 +21,9 @@
 </head>
 
 <body>
-    <?php 
-get_template_part('parts/header-nav');
-?>
+    <!-- <?php 
+// get_template_part('parts/header-nav');
+?> -->
     <?php
 get_template_part('parts/slider');
 ?>
